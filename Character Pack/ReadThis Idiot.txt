@@ -1,0 +1,8 @@
+we're going to put characters in this pack so that when we're adding
+them to the game the shit can be organized and take like 4 years to find a specific character
+
+
+
+When adding characters, remember that you need to make a folder and add all the series specific characters to their 
+respective folder and in jojos special case, part specific, but jojos is the only one with vastly different characters
+like that.
